@@ -4,7 +4,7 @@ Aplicación Android para la gestión de notas personales. El proyecto implementa
 
 ## 🎥 Video de Demostración
 Puedes ver el funcionamiento completo de la aplicación en el siguiente enlace:
-👉 **[Ver video de demostración aquí](PEGA_AQUI_TU_LINK_DE_YOUTUBE_O_DRIVE)** 👈
+👉 **** 👈
 
 *(Nota: Reemplaza el texto entre paréntesis con el enlace a tu video).*
 
