@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores Cyberpunk -->
+    <color name="cyber_bg_dark">#0B0914</color>
+    <color name="cyber_bg_purple">#240B36</color>
+    <color name="neon_cyan">#00F0FF</color>
+    <color name="neon_pink">#FF003C</color>
+</resources>

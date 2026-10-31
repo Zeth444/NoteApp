@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NotasApp</string>
+
+    <!-- Textos del Login -->
+    <string name="login_title">Bienvenido a NotasApp</string>
+    <string name="login_subtitle">Inicia sesión para continuar</string>
+    <string name="login_email_hint">Correo electrónico</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_button">Ingresar</string>
+
+    <!-- Mensajes de error -->
+    <string name="login_error_credentials">Credenciales incorrectas. Verifica tu correo y contraseña.</string>
+    <string name="error_network">Error de conexión. Revisa tu internet.</string>
+    <string name="error_server">Error en el servidor. Intenta más tarde.</string>
+    <string name="error_unknown">Ocurrió un error inesperado.</string>
+    <string name="error_unauthorized">Sesión expirada o no autorizada.</string>
+
+    <!-- Textos del Dashboard -->
+    <string name="dashboard_welcome">¡Hola, %1$s!</string>
+    <string name="dashboard_btn_create">Crear nota</string>
+    <string name="dashboard_btn_list">Ver mis notas</string>
+    <string name="dashboard_btn_logout">Cerrar sesión</string>
+
+    <!-- Textos de Crear Nota -->
+    <string name="create_note_title">Nueva Nota</string>
+    <string name="create_note_hint_title">Título de la nota</string>
+    <string name="create_note_hint_content">Escribe tu nota aquí...</string>
+    <string name="create_note_btn_save">Guardar Nota</string>
+    <string name="create_note_success">¡Nota guardada con éxito!</string>
+    <string name="create_note_error">Error al guardar la nota</string>
+
+    <!-- Textos de Listar Notas -->
+    <string name="list_note_title">Mis Notas</string>
+    <string name="list_note_empty">Aún no tienes notas guardadas.</string>
+</resources>

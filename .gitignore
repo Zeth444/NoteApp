@@ -1,0 +1,15 @@
+# Android
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Node.js
+node_modules/
+notas.db
